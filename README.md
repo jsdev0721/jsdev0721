@@ -2,13 +2,13 @@
 <div align="center">
 
 ### Hi there! 👋  
-Welcome to **jsdev0721's** GitHub profile!  
-I'm a developer who is continuously learning and growing to write better code.
+안녕하세요 장진수입니다.
+
+효율적이고 최적화된 코드를 목표로 하는 개발자가 되고 싶습니다.
 
 ---
 
 ### 🛠️ Tech Stack  
-Here are the technologies I work with:
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
