@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome&fontSize=70&animation=fadeIn&fontAlignY=40&desc=jsdev0721's%20GitHub%20Profile&descAlignY=55&descAlign=62)
-
 <div align="center">
 
 ### Hi there! 👋  
