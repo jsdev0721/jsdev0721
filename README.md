@@ -4,7 +4,7 @@
 
 ### Hi there! 👋  
 Welcome to **jsdev0721's** GitHub profile!  
-I'm a passionate developer who loves crafting clean and efficient code.
+I'm a developer who is continuously learning and growing to write better code.
 
 ---
 
