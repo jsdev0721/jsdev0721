@@ -34,6 +34,23 @@ Here are the technologies I work with:
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and let's connect! 😊
-
+### 📝 Projects
 </div>
+
+<details>
+<summary align="center">세부정보</summary>
+
+1. **NoTE**  
+   - 사내 웹그룹웨어 개발  
+   - **개발 기간**: 2024.03.21 ~ 2024.09.13  
+   - **핵심 역할**:  
+     - 캘린더 기능 개발  
+     - GPS 기반 출퇴근 기록 및 근태 관리 시스템 구현  
+     - 서버 배포 및 외부 DB(MySQL) 연동 관리  
+   - **상세 링크**: [GitHub Repository](https://github.com/jsdev0721/team-note)
+
+</details>
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and let's connect! 😊
