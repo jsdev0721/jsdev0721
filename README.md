@@ -41,6 +41,8 @@ Here are the technologies I work with:
 <summary align="center">세부정보</summary>
 
 1. **NoTE**  
+<img src="https://github.com/user-attachments/assets/cb420b15-0606-4f57-b813-32f67f4f7ad0" alt="footer logo" width="200"/>
+
    - 사내 웹그룹웨어 개발  
    - **개발 기간**: 2024.03.21 ~ 2024.09.13  
    - **핵심 역할**:  
@@ -50,7 +52,3 @@ Here are the technologies I work with:
    - **상세 링크**: [GitHub Repository](https://github.com/jsdev0721/team-note)
 
 </details>
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and let's connect! 😊
